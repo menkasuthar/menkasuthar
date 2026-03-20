@@ -1,8 +1,8 @@
 # Hi there, I'm Menka! 👋 
 
 ### 🚀 Full Stack Web Developer
-Main modern, clean aur aesthetic web applications banane mein focus karti hoon, jisme JavaScript meri main expertise hai.
 
+I am passionate about building **modern, clean, and aesthetic web applications**. My primary focus is on mastering **JavaScript** and the **MERN Stack** to create seamless user experiences.
 ---
 
 ### 🛠️ My Tech Stack
